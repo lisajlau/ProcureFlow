@@ -1,0 +1,6 @@
+{
+  "name": "ProcureFlow - Procurement & Supplier Management System",
+  "description": "A centralized procurement management system featuring supplier database with CTOS verification, procurement item requisitioning, and quotation intake & multi-supplier comparison matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
